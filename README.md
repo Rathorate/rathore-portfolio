@@ -3,7 +3,7 @@
 A single-file, dark hacker/matrix-themed personal portfolio website — built with vanilla HTML, CSS, and JavaScript. No frameworks, no build step, no dependencies.
 
 ## 🚀 Live Demo
-[View live site](https://your-live-url-here.vercel.app)
+[View live site](https://rathore-portfolio.vercel.app)
 
 ## ✨ Features
 - Animated matrix rain background (canvas)
